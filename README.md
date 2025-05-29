@@ -22,6 +22,7 @@
 - 📫 How to reach me: joaojosafa11@gmail.com.
 
 ---
+
   ### 🚀 Quick Stats
   
   <p align="left">
