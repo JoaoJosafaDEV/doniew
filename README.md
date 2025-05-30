@@ -27,7 +27,7 @@
   ### 🚀 Quick Stats
   
   <p align="left">
-  <img width="450px" src="https://github-readme-stats.vercel.app/api?username=joaojosafa&show_icons=true&theme=algolia" />
+  <img width="450px" src="https://github-readme-stats.vercel.app/api?username=doniew&show_icons=true&theme=algolia" />
 </p>
 
 ---
