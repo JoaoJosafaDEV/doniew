@@ -1,4 +1,4 @@
-<!-- Your title -->
+<!--  -->
 ## Hi, I'm João Pedro, a Developer from Brazil.
 
 <!-- Your badges
@@ -26,9 +26,11 @@
 
   ### 🚀 Quick Stats
   
-  <p align="left">
-  <img width="450px" src="https://github-readme-stats.vercel.app/api?username=doniew&show_icons=true&theme=algolia" />
+ <p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=doniew&show_icons=true&theme=algolia" width="430px" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=doniew&layout=compact&theme=algolia&hide_border=true" width="430px" /> -->
 </p>
+
 
 ---
 
