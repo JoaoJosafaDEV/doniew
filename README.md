@@ -18,7 +18,7 @@
 
 - 👨🏽‍💻 I’m currently working on personal projects.
 - 🌱 I’m currently learning Java and React.
-- 📫 How to reach me: joaojosafa11@gmail.com.
+- 📫 How to reach me: joaojosafa11@proton.me.
 
 <br/>
 
@@ -27,7 +27,7 @@
   ### 🚀 Quick Stats
   
  <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=doniew&show_icons=true&theme=algolia" width="430px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JoaoJosafaDEV&show_icons=true&theme=algolia" width="430px" />
   <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=doniew&layout=compact&theme=algolia&hide_border=true" width="430px" /> -->
 </p>
 
